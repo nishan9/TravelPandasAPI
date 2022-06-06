@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kviUyhQ8s6JfA5yAZBmouLPcm1dnGPfdWRx+HJooHICj42lOTzU50hkSepsnjsSE2c4WkYA+JlwdpbmLGBf5mg==",
+  "success": true,
+  "projectFilePath": "/Users/nishan/Projects/TravelPandasAPI/TravelPandasAPI/TravelPandasAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/nishan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nishan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nishan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nishan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nishan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nishan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
