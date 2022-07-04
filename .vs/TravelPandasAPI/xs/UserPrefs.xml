@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{DA1B6855-9226-4A01-86A5-AD3E004A8481}|Default">
+  <MonoDevelop.Ide.ItemProperties.TravelPandasAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TravelPandasAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelPandasAPI/Controllers/BookingsController.cs">
+    <Files>
+      <File FileName="TravelPandasAPI/Controllers/BookingsController.cs" Line="72" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelPandasAPI" expanded="True">
+            <Node name="TravelPandasAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookingsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Tables" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
